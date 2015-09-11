@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ERoadTest</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="google_timezone_api">AIzaSyDCaqlDqNXAr3sBif3tI8fgDHXLNQtgITM</string>
+</resources>
